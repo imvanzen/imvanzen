@@ -3,7 +3,7 @@
 I'm Jakub Reczko a Full Stack Web Developer. I Spend most of time coding from tutorials and learning from courses top notch features in order to use this knowledge in the future.
 
 - 🔭 I’m currently working [@MasterBorn](https://www.masterborn.com/)
-- 🌳 I’m looking for relationships that share simillar mindset.
+- 🌳 I like to surround myself with innovative people with positive mindset and human-like approach to others.
 - 📫 How to reach me: reczko.jakub@gmail.com.
 - 😄 Pronouns: Kuba, Wazon, Zenek.
 - 🌶 Fun fact: I ate the hottest pepper in the world and I'm still alive.
